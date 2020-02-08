@@ -1,0 +1,16 @@
+{
+    "name": "lyd-swostar",
+    "type": "library",
+    "authors": [
+        {
+            "name": "李玉东",
+            "email": "173297552@qq.com"
+        }
+    ],
+    "autoload":{
+        "psr-4":{
+            "SwoStar\\": "./src/"
+        }
+    },
+    "require": {}
+}

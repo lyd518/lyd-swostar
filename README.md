@@ -1,5 +1,5 @@
-###swoole 示例
-加载方式:
+###swoole 绀轰緥
+鍔犺浇鏂瑰紡:
 ```
 composer require lyd-swostar
 ```
